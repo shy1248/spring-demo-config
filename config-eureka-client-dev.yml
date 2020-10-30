@@ -1,0 +1,13 @@
+###
+# Date        : 2020-10-30 10:39:19
+# Author      : shy
+# Email       : yushuibo@ebupt.com / hengchen2005@gmail.com
+# Version     : v1.0
+# Description : -
+###
+
+data:
+  env: config-eureka-client-dev
+  user:
+    username: eureka-client-user
+    password: 12345678
